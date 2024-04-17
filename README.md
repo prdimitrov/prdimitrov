@@ -1,5 +1,22 @@
-### Hi there 👋
+# Hey there! 👋 I'm Peter Dimitrov
 
+## About Me
+I'm a **Young teacher** passionate about **Software Developing**. I love diving into **new technologies, coding different stuff**, and I'm always eager to learn something new.
+
+## Current status
+:grin: Teacher and a student. :grin:
+
+## Skills
+- 💻 Programming Languages: [Java, JavaScript, MySQL, HTML & CSS]
+- 🛠️ Technologies: [Spring, Hibernate]
+- 📚 Other Skills: [Assembly and service of computer equipment, networking, surveillance systems, server support and management]
+
+### ⚠ Heavy Bass Music ⚠
+![Project Image](https://i.ibb.co/q7CPK6r/437887561-7815566245144867-561115304801357731-n.jpg)  
+I like listening to heavy bass songs [those rebassed ones].  
+If you also like low bass, you can contact me:
+- [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026242775661)
+- [![VKontakte](https://img.shields.io/badge/VKontakte-Profile-blue?style=flat-square&logo=vk&logoColor=white)](https://vk.com/id817756413)
 <!--
 **prdimitrov/prdimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
