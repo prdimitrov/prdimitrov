@@ -12,7 +12,7 @@ I'm a **Young teacher** passionate about **Software Developing**. I love diving 
 - 📚 Other Skills: [Assembly and service of computer equipment, networking, surveillance systems, server support and management]
 
 ### ⚠ Heavy Bass Music ⚠
-![Project Image](https://i.ibb.co/C1LZP6Y/testbaskasamen.png))  
+![Project Image](https://i.ibb.co/C1LZP6Y/testbaskasamen.png)  
 I like listening to heavy bass songs [those rebassed ones].  
 If you also like low bass, you can contact me:
 - [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026242775661)
