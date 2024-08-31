@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Peter Dimitrov
+# Hey there! 👋 I'm Peter Dimitrov (known as DASKALA)
 
 ## About Me
 I'm a **Young teacher** passionate about **Software Developing**. I love diving into **new technologies, coding different stuff**, and I'm always eager to learn something new.
