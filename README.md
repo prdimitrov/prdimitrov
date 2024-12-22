@@ -8,7 +8,7 @@ I'm a **Young teacher** passionate about **Software Developing**. I love diving 
 
 ## Skills
 - 💻 Programming Languages: [Java, C#, JavaScript, MySQL, HTML & CSS]
-- 🛠️ Technologies: [Spring, Hibernate, Unity]
+- 🛠️ Technologies: [Spring, Hibernate, Android Studio, Unity]
 - 📚 Other Skills: [Assembly and service of computer equipment, networking, surveillance systems, server support and management]
 
 ### ⚠ Heavy Bass Music ⚠
