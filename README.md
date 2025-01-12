@@ -7,7 +7,7 @@ I'm a **Young teacher** passionate about **Software Developing**. I love diving 
 :grin: Teacher and a student. :grin:
 
 ## Skills
-- 💻 Programming Languages: [Java, C#, JavaScript, MySQL, HTML & CSS]
+- 💻 Programming Languages: [Java, Kotlin, C#, JavaScript, MySQL, HTML & CSS]
 - 🛠️ Technologies: [Spring, Hibernate, Android Studio, Unity]
 - 📚 Other Skills: [Assembly and service of computer equipment, networking, surveillance systems, server support and management]
 
