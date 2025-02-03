@@ -3,13 +3,15 @@
 ## About Me
 I'm a **Young teacher** passionate about **Software Developing**. I love diving into **new technologies, coding different stuff**, and I'm always eager to learn something new.
 
-## Current status
-:grin: Teacher and a student. :grin:
+## Current role
+:grin: Teacher :grin:
 
 ## Skills
-- 💻 Programming Languages: [Java, Kotlin, C#, JavaScript, MySQL, HTML & CSS]
-- 🛠️ Technologies: [Spring, Hibernate, Android Studio, Unity]
-- 📚 Other Skills: [Assembly and service of computer equipment, networking, surveillance systems, server support and management]
+- 💻 Programming Languages: [Java, Kotlin, JavaScript, HTML & CSS]
+- 🗃️ Databases: [MySQL, Google Firebase, ROOM DB]
+- 🌱 Frameworks: [Spring, Jetpack Compose]
+- 📦 Libraries: [Hibernate, ModelMapper, Lombok, Docker...]
+- 📚 Other Skills: [OOP, data structures and algorithms, networking, surveillance systems, server support and management]
 
 ### ⚠ Heavy Bass Music ⚠
 ![Project Image](https://i.postimg.cc/TYr3qhBV/background-modern.jpg)
