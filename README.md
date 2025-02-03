@@ -8,9 +8,9 @@ I'm a **Young teacher** passionate about **Software Developing**. I love diving 
 
 ## Skills
 - 💻 Programming Languages: [Java, Kotlin, JavaScript, HTML & CSS]
-- 🗃️ Databases: [MySQL, Google Firebase, ROOM DB]
+- 🗃️ Databases: [MySQL, Google Firebase, ROOM DB, MariaDB]
 - 🌱 Frameworks: [Spring, Jetpack Compose]
-- 📦 Libraries: [Hibernate, ModelMapper, Lombok, Docker...]
+- 📦 Libraries: [Hibernate, ModelMapper, Lombok, DataBinding, Docker...]
 - 📚 Other Skills: [OOP, data structures and algorithms, networking, surveillance systems, server support and management]
 
 ### ⚠ Heavy Bass Music ⚠
