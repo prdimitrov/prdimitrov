@@ -15,7 +15,7 @@ I'm a **Young teacher** passionate about **Software Developing**. I love diving 
 
 ### ⚠ Heavy Bass Music ⚠
 ![Project Image](https://i.postimg.cc/TYr3qhBV/background-modern.jpg)
-![Project Image2][(https://postimg.cc/Ty4X2TSZ)](https://i.postimg.cc/fLwWKLvT/background.jpg)
+![Project Image2](https://i.postimg.cc/fLwWKLvT/background.jpg)
 I like listening to heavy bass songs [those rebassed ones].  
 If you also like low bass, you can contact me:
 - [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026242775661)
